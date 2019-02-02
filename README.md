@@ -1,3 +1,2 @@
-#My test repo\n
-\n
+#My test repo
 Only for practice use
